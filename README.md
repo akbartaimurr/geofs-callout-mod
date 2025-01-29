@@ -33,10 +33,10 @@ Geo FS Callouts is a script designed to enhance your GeoFS flight simulation exp
 - **Seamless Integration**: Easily integrates into GeoFS without the need for complex configuration.
 
 ## Installation Instructions:
-1. **Visit the Releases Tab**: Go to the [Releases](https://github.com/yourusername/GeoSifter-Callouts/releases) section of this repository.
+1. **Visit the Releases Tab**: Go to the [Releases](https://github.com/akbartaimurr/geofs-callout-mod/releases/tag/stable-script) section of this repository.
 2. **Download the JavaScript File**: Click on the latest release and download the `.user.js` file.
 3. **Copy the Script Content**: Open the downloaded `.user.js` file in a text editor, select all the content, and copy it.
-4. **Open GeoFS Play Page**: Navigate to the [GeoFS Play Page](https://www.geo-fs.com/play/).
+4. **Open GeoFS Play Page**: Navigate to the [GeoFS Play Page](https://www.geo-fs.com/geofs.php?v=3.9).
 5. **Open Browser Console**: Press `Ctrl + Shift + I` (or `Cmd + Option + I` on Mac) to open the browser's developer tools, then click on the "Console" tab.
 6. **Paste and Execute the Script**: Paste the copied script content into the console and press `Enter` to execute it.
 
